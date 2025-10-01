@@ -84,7 +84,7 @@ yarn dev
 # O servidor de desenvolvimento iniciará em http://localhost:5173 (ou outra porta disponível)
 
 👥 # Equipe de Desenvolvimento
-(Foto) Tiago Jesus Pereira......................Desenvolvedor Front-end (PO) - Link para o GitHub
+<img src="[https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/images/tiago.jpg](https://github.com/T1P3R31R4/ClassHub---Front-end/blob/main/src/assets/imagens/tiago_profile.png?raw=true)" width="70px" alt="Foto de Tiago Jesus Pereira"/> Tiago Jesus Pereira......................Desenvolvedor Front-end (PO) - Link para o GitHub
 (Foto) Felipe Piske Teles.......................Desenvolvedor Backand   - Link para o GitHub
 (Foto) Lucas Fernandes..........................Desenvolvedor Backand   - Link para o GitHub
 (Foto) Gustavo Kirst............................Desenvolvedor Front-end - Link para o GitHub
